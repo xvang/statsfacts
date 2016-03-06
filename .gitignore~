@@ -83,3 +83,4 @@ secret.cfg
 *.cfg
 *.ini~
 *.cfg~
+*.py~

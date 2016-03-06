@@ -84,3 +84,5 @@ secret.cfg
 *.ini~
 *.cfg~
 *.py~
+db.sqlite3
+__pycache__
